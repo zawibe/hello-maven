@@ -1,7 +1,7 @@
 package pl.edu.agh.mwo.hellomaven;
 
 /**
- * Simple main application
+ * Simple main application.
  */
 public class App {
 
